@@ -4,9 +4,9 @@ define('GJ_CODE', 'HK');
 define('SITE_NAME', 'you2b1eclub');
 define('TITLENAME', 'you2beclub');
 define('EN2DEKEY', '32123wwerwertgfdgds');
-define('EMAIL', '1334347212@qq.com');
-define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('EMAIL', 'hexibao120@163.com');
+define('NAME', '王德发');
+define('PASSWORD', 'qwe@asd@zxc');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
